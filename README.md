@@ -14,6 +14,8 @@ I have contributed to two open-source projects so far and am looking for more:
 - https://github.com/selfire1/BibleGateway-to-Obsidian
 - https://github.com/AntiochTechnology/bible-reference-toolkit
 
+![Lucas Froguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Froguel&show_icons=true&theme=transparent)
+
 ---
 > Neo, sooner or later you're going to realize, just as I did, that there's a difference between knowing the path and walking the path.
 

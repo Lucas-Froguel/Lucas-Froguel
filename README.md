@@ -14,7 +14,12 @@ I have contributed to two open-source projects so far and am looking for more:
 - https://github.com/selfire1/BibleGateway-to-Obsidian
 - https://github.com/AntiochTechnology/bible-reference-toolkit
 
-![Lucas Froguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Froguel&show_icons=true&theme=transparent)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-Froguel&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Froguel&hide=html,scss,stylus,blade,jupyter%20notebook,css,batchfile,typescript,tex&theme=algolia&show_icons=true&langs_count=6&layout=compact" />
+</a>
 
 ---
 > Neo, sooner or later you're going to realize, just as I did, that there's a difference between knowing the path and walking the path.

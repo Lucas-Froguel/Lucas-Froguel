@@ -10,10 +10,6 @@ I'm Lucas, a physicist turned into computer nerd. Here are some things about mys
 - :space_invader: Hobbies: coffee making, board games, books, programming (yeah), sword fighting.
 -  If your first thought here was "General Kenobi", I respect you. 
 
-I have contributed to two open-source projects so far and am looking for more:
-- https://github.com/selfire1/BibleGateway-to-Obsidian
-- https://github.com/AntiochTechnology/bible-reference-toolkit
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-Froguel&show_icons=true&theme=transparent" />
 </a>

@@ -1,13 +1,12 @@
 ## Hello there!
 
 I'm Lucas, a physicist turned into computer nerd. Here are some things about myself:
-- :wrench: I’m currently working as Python Software Engineer for a german company.
+- :wrench: I’m currently working as Data Platform Engineer for a NY company.
 - :mage_man: I’m currently pursuing a Master's in Machine Learning Applied to Nuclear Physics at UNESP and a MBA in Data Science at USP. 
 - :robot: I’m looking to collaborate on cool open source projects.
-- 💬 Ask me about anything, I guess.
 - 📫 How to reach me: email or LinkedIn.
 - ⚡ Fun fact: I seem to be unable to stop studying.
-- :space_invader: Hobbies: coffee making, board games, books, programming (yeah), sword fighting.
+- :space_invader: Hobbies: coffee making, board games, table-top RPGs, books, programming (yeah), sword fighting.
 -  If your first thought here was "General Kenobi", I respect you. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
